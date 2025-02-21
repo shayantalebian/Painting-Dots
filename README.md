@@ -1,4 +1,4 @@
-# Paiting Dots
+# Painting Dots
 
 This project is a simple app that draws random colored circles or dots using the Turtle graphics library.
 
